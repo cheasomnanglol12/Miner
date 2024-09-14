@@ -1,0 +1,14 @@
+{
+	"appId": "com.cryptoice.app",
+	"appName": "Crypto KALIP",
+	"bundledWebRuntime": false,
+	"webDir": "dist",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		},
+		"CapacitorHttp": {
+			"enabled": true
+		}
+	}
+}
